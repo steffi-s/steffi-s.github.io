@@ -12,3 +12,6 @@ Geralt is a witcher, a monster-slayer - or a 'foul mutant', depending who you as
 > I'll never know. Something wrong with my face?
 
 
+<img src="https://live.staticflickr.com/720/22053495261_c54fddbf9b_b.jpg"/>
+
+
