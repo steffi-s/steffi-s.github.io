@@ -8,5 +8,7 @@ Geralt is a witcher, a monster-slayer - or a 'foul mutant', depending who you as
 * stays calm even in heated situations
 * likes horse-racing to win new saddles
 
+> Why men throw away their lives away attacking an armed witcher...
+> I'll never know. Something wrong with my face?
 
 
